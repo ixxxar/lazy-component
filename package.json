@@ -1,0 +1,27 @@
+{
+  "name": "@igordvoretskov/lazy-component",
+  "version": "0.0.1",
+  "description": "Wrapper for React. Lazy loading components using Intersection observer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ixxxar/lazy-component.git"
+  },
+  "author": "Igor Dvoretskov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ixxxar/lazy-component.git/issues"
+  },
+  "homepage": "https://github.com/ixxxar/lazy-component.git#readme",
+  "keywords": [
+    "lazy load",
+    "react",
+    "observer"
+  ],
+  "peerDependencies": {
+    "react": ">=17.0.0"
+  }
+}
